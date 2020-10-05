@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:there is more knowledge on earth rather than my number of hairs. ...
 -->
 ### Hello sup?
-I'm Aditya aka Xynox. I'm a passionate developer making awesome things for tons of smiling faces. 😉
+I'm Aditya aka Smokie. I'm a Developer, currently in learning term.
 
 ### About me 👨‍
 
