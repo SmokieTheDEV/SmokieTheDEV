@@ -1,54 +1,55 @@
-### Hi there 👋
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://avatars.githubusercontent.com/u/67409054?s=60&v=4">Smokie</a></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/">LinkedIN</a> •
+  <a href="https://www.instagram.com/">Instagram</a> •
+  <a href="https://twitter.com/">Twitter</a>
+</p>
 
-<!--
-**SmokieTheDEV/SmokieTheDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on Html ...
-- 🌱 I’m currently learning java,flask,shell,Go...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Discord](https://discord.gg/Nx5ywAd) ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:there is more knowledge on earth rather than my number of hairs. ...
--->
-### Hello sup?
-I'm Aditya Raj aka Smokie. I'm a Developer, currently in learning term.
+- 👨🏽‍💻  I’m currently working on something cool :wink:.
+- 🌱  I’m currently learning Python. 
+- 💬  Ask me about anything, I am happy to help.
+- 📫  How to reach me: asksmokie121@gmail.com.
 
-### About me 👨‍
+***
 
+ <br>
 
-- Email - adityaraj.kp.21@gmail.com
-- Location - India.
-- Discord Bio - [Smokie](https://dev.discordprofiles.me/profiles/551675716635328512) 
-- My GitHub Statistics -
+📈 My Github stats <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SmokieTheDev&theme=dark&show_icons=true" alt="SmokieStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokieTheDev&layout=compact&theme=dark" alt="top-langs" />
+</p>
 
-![Smokie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmokieTheDEV&hide=["stars"]&show_icons=true)
+*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/SmokieTheDev/github-readme-stats)*
 
-### Programming Languages 🌐
+<br>
 
-- Know/Using
+**Languages and Tools**
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="34">](https://isocpp.org/)  |  
-|---|---|
+<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
 
-- Learning
+***
 
- | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="28">](https://www.typescriptlang.org/) |  [<img src="https://cdn.discordapp.com/emojis/230394175080628234.png?v=1" alt="java logo" width="34">](https://www.java.com/)| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="34">](https://www.python.org/)
-|---|---|---|
+<br />
 
-### Tools 🛠️
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://avatars.githubusercontent.com/u/67409054?s=60&v=4" />
+</p>
 
-- Know/Using
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="26">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="30">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="28">](https://code.visualstudio.com/)| Windows Terminal
-|---|---|---|---|
-
-- Learning
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="34">](https://www.docker.com/) | many more...
-|---|---|
-
-
-|---|---|---|---|---|---|---|---|
-
+-----
